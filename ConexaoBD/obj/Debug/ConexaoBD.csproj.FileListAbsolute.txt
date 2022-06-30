@@ -1,0 +1,6 @@
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.csprojResolveAssemblyReference.cache
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+c:\users\marcio\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb
